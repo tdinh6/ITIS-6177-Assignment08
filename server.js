@@ -26,7 +26,7 @@ const options = {
 		host: 'localhost:3000',
 		basePath: '/'
 	},
-	apis: ['./root/server/db.sql','./root/server/server.js'],
+	apis: ['./root/ITIS-6177-Assignment08/server.js'],
 
 
 		
